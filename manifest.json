@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "notes": "P5 更新链路验证包（只写 update-check/，不碰程序本体）",
+  "package": {
+    "url": "gt-update-1.0.1.zip",
+    "size": 66275,
+    "sha256": "b4c7f292bd7698bcbb136ee84ec03659e9665e07767e7f132827ecf5c9cb0cc0"
+  }
+}
